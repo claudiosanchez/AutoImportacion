@@ -1,0 +1,5 @@
+C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\bin\Debug\AutomobileInformation.BL.dll
+C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\bin\Debug\AutomobileInformation.BL.pdb
+C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\obj\Debug\AutomobileInformation.BL.dll
+C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\obj\Debug\AutomobileInformation.BL.pdb

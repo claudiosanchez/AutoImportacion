@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3c71d803-1ae2-482f-86a8-04773a66a1fc" name="Claudio@DEVMACHINE 2012-09-06 19:57:17" runUser="DEVMACHINE\Claudio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a67dcb87-421c-4582-bdb9-a626606445b2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Claudio_DEVMACHINE 2012-09-06 19_57_17">
+      <DeploymentItem filename="C:\Users\Claudio\SkyDrive\Documents\Source\AutoImportacion\AutomobileInformation.BL\bin\Debug\AutomobileInformation.BL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-06T19:57:17.3232421-04:00" queuing="2012-09-06T19:57:18.4404296-04:00" start="2012-09-06T19:57:18.7666015-04:00" finish="2012-09-06T19:58:09.9873046-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="DEVMACHINE" outcome="Error" timestamp="2012-09-06T19:58:09.9863281-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\claudio\skydrive\documents\source\autoimportacion\automobileinformation.bl.test\bin\debug\automobileinformation.bl.test.dll" id="6e0d2e6c-92a2-e64e-8212-5acdd6c712a2">
+      <Execution id="0d4e2af1-98e2-4f9e-9725-6e28ef453faa" />
+      <TestMethod codeBase="C:/Users/Claudio/SkyDrive/Documents/Source/AutoImportacion/AutomobileInformation.BL.Test/bin/Debug/AutomobileInformation.BL.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AutomobileInformation.BL.Test.VehicleInformationNumberTests, AutomobileInformation.BL.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6e0d2e6c-92a2-e64e-8212-5acdd6c712a2" executionId="0d4e2af1-98e2-4f9e-9725-6e28ef453faa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0d4e2af1-98e2-4f9e-9725-6e28ef453faa" testId="6e0d2e6c-92a2-e64e-8212-5acdd6c712a2" testName="TestMethod1" computerName="DEVMACHINE" duration="00:00:50.8984375" startTime="2012-09-06T19:57:19.0888671-04:00" endTime="2012-09-06T19:58:09.9873046-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d4e2af1-98e2-4f9e-9725-6e28ef453faa">
+    </UnitTestResult>
+  </Results>
+</TestRun>
